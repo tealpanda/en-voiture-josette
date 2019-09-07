@@ -38,9 +38,5 @@ fields:
     required: true
 pages:
 - src/pages/posts/2019-03-27-fragments-of-iceland.md
-- src/pages/posts/2019-03-24-japan.md
-- src/pages/posts/2019-03-10-grand-canyon.md
 - src/pages/posts/2018-01-15-best-waves-surfing-spain.md
 - src/pages/posts/2018-01-11-fox-village-in-japan.md
-- src/pages/posts/2017-03-26-interior-designer.md
-- src/pages/posts/2016-08-22-working-from-home.md
