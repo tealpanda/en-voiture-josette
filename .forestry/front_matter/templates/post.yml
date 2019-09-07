@@ -37,6 +37,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/2019-03-27-fragments-of-iceland.md
 - src/pages/posts/2018-01-15-best-waves-surfing-spain.md
-- src/pages/posts/2018-01-11-fox-village-in-japan.md
