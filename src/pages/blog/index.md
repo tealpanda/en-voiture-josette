@@ -1,7 +1,7 @@
 ---
 title: Blog
 menus:
-  main:
+  secondary:
     title: Blog
     weight: 2
 template: blog
